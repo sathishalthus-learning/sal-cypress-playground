@@ -2,9 +2,15 @@
 
 ```
 npm install cypress --save-dev
+```
+```
 npm install typescript --save-dev
-npm --init
+```
 
+```
+npm --init
+```
+```
 tsconfig.json
 {
   "compilerOptions": {
@@ -14,8 +20,10 @@ tsconfig.json
   },
   "include": ["**/*.ts"]
 }
-
+```
+```
 npx cypress open
-
+```
+```
 npx cypress run
 ```
