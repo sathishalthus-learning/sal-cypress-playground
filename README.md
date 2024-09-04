@@ -1,5 +1,6 @@
 # sal-cypress-playground
 
+```
 npm install cypress --save-dev
 npm install typescript --save-dev
 npm --init
@@ -17,3 +18,4 @@ tsconfig.json
 npx cypress open
 
 npx cypress run
+```
